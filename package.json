@@ -1,0 +1,20 @@
+{
+  "name": "gundam-visor",
+  "version": "1.0.0",
+  "description": "package about Char Aznable's visor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ramonpetgrave64/gundam-visor"
+  },
+  "keywords": [
+    "slsa",
+    "sigstore",
+    "gundam"
+  ],
+  "author": "Ramon Petgrave",
+  "license": "ISC"
+}
